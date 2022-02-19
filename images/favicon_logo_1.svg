@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 logo.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.730693in" height="0.576086in"
+		viewBox="0 0 52.6099 41.4782" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {marker-end:url(#mrkr5-11);marker-start:url(#mrkr5-8);stroke:#7030a0;stroke-width:1}
+		.st2 {fill:#7030a0;fill-opacity:1;stroke:#7030a0;stroke-opacity:1;stroke-width:0.35714285714286}
+		.st3 {stroke:#ff9999;stroke-width:1}
+		.st4 {marker-end:url(#mrkr7-27);stroke:#ff9999;stroke-width:1}
+		.st5 {fill:#ff9999;fill-opacity:1;stroke:#ff9999;stroke-opacity:1;stroke-width:0.35714285714286}
+		.st6 {marker-start:url(#mrkr7-33);stroke:#ff9999;stroke-width:1}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-8" class="st2" v:arrowType="5" v:arrowSize="1" v:setback="4.54" refX="4.54" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(2.8) "/>
+		</marker>
+		<marker id="mrkr5-11" class="st2" v:arrowType="5" v:arrowSize="1" v:setback="4.54" refX="-4.54" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.8,-2.8) "/>
+		</marker>
+		<g id="lend7">
+			<path
+					d="M 1.84309 -0.959456 C 1.43792 -0.380801 0.784503 -0.0260255 0.078527 -0.00137091 L 0.0785229 0.00137043 C 0.784499 0.0260231 1.43791 0.380798 1.84309 0.959452 "
+					style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr7-27" class="st5" v:arrowType="7" v:arrowSize="1" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend7" transform="scale(-2.8,-2.8) "/>
+		</marker>
+		<marker id="mrkr7-33" class="st5" v:arrowType="7" v:arrowSize="1" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend7" transform="scale(2.8) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape14-1" v:mID="14" v:groupContext="shape" transform="translate(10.4319,-12.0159) rotate(-22.5)">
+			<title>工作表.14</title>
+			<path d="M4.33 40.11 L4.67 40 A28.3465 28.3465 49.75 0 1 17.02 40 L17.37 40.11" class="st1"/>
+		</g>
+		<g id="shape18-12" v:mID="18" v:groupContext="shape" transform="translate(22.134,-20.3184) rotate(22.5)">
+			<title>工作表.18</title>
+			<path d="M4.33 40.11 L4.67 40 A28.3465 28.3465 135 0 1 17.02 40 L17.37 40.11" class="st1"/>
+		</g>
+		<g id="shape10-19" v:mID="10" v:groupContext="shape" transform="translate(67.7832,26.305) rotate(90)">
+			<title>工作表.10</title>
+			<path d="M0 41.48 L14.17 41.48" class="st3"/>
+		</g>
+		<g id="shape16-22" v:mID="16" v:groupContext="shape" transform="translate(-12.0159,42.178) rotate(-112.5)">
+			<title>工作表.16</title>
+			<path d="M0 41.48 A28.3465 28.3465 35.74 0 1 21.7 41.48" class="st4"/>
+		</g>
+		<g id="shape20-28" v:mID="20" v:groupContext="shape" transform="translate(72.9283,22.134) rotate(112.5)">
+			<title>工作表.20</title>
+			<path d="M-0 41.48 A28.3465 28.3465 144.26 0 1 21.7 41.48" class="st6"/>
+		</g>
+	</g>
+</svg>
