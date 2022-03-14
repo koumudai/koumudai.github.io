@@ -15,13 +15,13 @@ def f(path):
                 e_new = e.replace('png', 'PNG')
                 print(e, e_new)
                 # shutil.move(f'{path}/{e}', f'{path}/{e_new}')
-            elif 'SVG' in e and e[0] != '.':
-                e_new = e.replace('SVG', 'SVG1')
+            elif 'SVG1' in e and e[0] != '.':
+                e_new = e.replace('SVG1', 'SVG')
                 print(e, e_new)
                 shutil.move(f'{path}/{e}', f'{path}/{e_new}')
                 # shutil.move(f'{path}/{e_new}', f'{path}/{e}')
-            elif 'PNG' in e and e[0] != '.':
-                e_new = e.replace('PNG', 'PNG1')
+            elif 'PNG1' in e and e[0] != '.':
+                e_new = e.replace('PNG1', 'PNG')
                 print(e, e_new)
                 shutil.move(f'{path}/{e}', f'{path}/{e_new}')
                 # shutil.move(f'{path}/{e_new}', f'{path}/{e}')
