@@ -19,12 +19,12 @@ def f(path):
                 e_new = e.replace('SVG', 'SVG1')
                 print(e, e_new)
                 shutil.move(f'{path}/{e}', f'{path}/{e_new}')
-                shutil.move(f'{path}/{e_new}', f'{path}/{e}')
+                # shutil.move(f'{path}/{e_new}', f'{path}/{e}')
             elif 'PNG' in e and e[0] != '.':
                 e_new = e.replace('PNG', 'PNG1')
                 print(e, e_new)
                 shutil.move(f'{path}/{e}', f'{path}/{e_new}')
-                shutil.move(f'{path}/{e_new}', f'{path}/{e}')
+                # shutil.move(f'{path}/{e_new}', f'{path}/{e}')
             
             
 f('.')
